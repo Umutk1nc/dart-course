@@ -11,4 +11,4 @@ This repository contains my notes, exercises, and projects while learning the Da
 - Practice object-oriented programming
 
 ## Progress
-- [x] Lesson 1 - Introduction & Basic Syntax
+- [x] Lesson 1 - Introduction & Basic Syntax (30 July 2026)
