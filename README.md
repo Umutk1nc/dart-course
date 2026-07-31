@@ -12,3 +12,4 @@ This repository contains my notes, exercises, and projects while learning the Da
 
 ## Progress
 - [x] Lesson 1 - Introduction & Basic Syntax (30 July 2026)
+- [x] Lesson 2 - Conditions and Operators (31 July 2026)
