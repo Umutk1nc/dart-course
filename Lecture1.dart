@@ -1,6 +1,5 @@
 
-void main(List<String> args) 
-{
+void main(List<String> args) {
   //Variable Types
   print("_________________PART 1________________________");
   print("Hello World\n");
