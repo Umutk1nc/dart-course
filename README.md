@@ -16,3 +16,4 @@ This repository contains my notes, exercises, and projects while learning the Da
 - [x] Lesson 3 - Loops and User Input (01 August 2026)
 - [x] Lesson 4 - Functions (02 August 2026)
 - [x] Lesson 5 - Lists, Sets and Maps (03 August 2026)
+- [x] Lesson 6 - Map and List Applications (04 August 2026)
